@@ -4,9 +4,11 @@ body {
     "Lucida Sans", Arial, sans-serif;
   font-size: 18px;
 }
+
 .avatar {
   width: 150px;
 }
+
 .avatar:hover {
   cursor: pointer;
 }
@@ -25,4 +27,7 @@ body {
   text-shadow: 1px 1px 0 #00043a;
   animation-name: bgcolor;
   animation-duration: 8s;
+}
+
+@keyframes bgcolor {
 }
