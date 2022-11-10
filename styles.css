@@ -30,4 +30,10 @@ body {
 }
 
 @keyframes bgcolor {
+  from {
+    background-color: #00043a;
+  }
+  to {
+    background-color: #800016;
+  }
 }
