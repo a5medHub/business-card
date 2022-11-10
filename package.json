@@ -1,0 +1,6 @@
+{
+    "name": "project",
+    "dependencies": {},
+    "devDependencies": {
+      "vite": "latest"
+    }
