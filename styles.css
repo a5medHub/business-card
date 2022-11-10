@@ -8,4 +8,5 @@ body {
   width: 150px;
 }
 .avatar:hover {
+  cursor: pointer;
 }
